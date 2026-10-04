@@ -33,9 +33,6 @@ Show the player-count input screen and the main controls.
 <p align="center">
   <img src="screenShots/main.png" width="45%">
 </p>
-```text
-screenshots/main-menu.png
-```
 
 ### Player Message
 
