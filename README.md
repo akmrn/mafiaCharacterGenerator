@@ -31,7 +31,7 @@ Recommended screenshots for the project:
 Show the player-count input screen and the main controls.
 
 <p align="center">
-  <img src="screenShots/main.png" width="45%">
+  <img src="screenShots/main.png" width="75%">
 </p>
 
 ### Player Message
@@ -47,22 +47,16 @@ screenshots/player-message.png
 Show the screen where the current player's role is displayed.
 
 <p align="center">
-  <img src="screenShots/role.png" width="45%">
+  <img src="screenShots/role.png" width="75%">
 </p>
 
 ### Information
 
 Show the application's information/help screen.
 
-```text
-screenshots/information.png
-```
-
-To display an image in GitHub, place the image inside the `screenshots/` directory and use:
-
-```markdown
-![Main Menu](screenshots/main-menu.png)
-```
+<p align="center">
+  <img src="images/information.png" width="75%">
+</p>
 
 ---
 
