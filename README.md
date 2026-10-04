@@ -30,6 +30,9 @@ Recommended screenshots for the project:
 
 Show the player-count input screen and the main controls.
 
+<p align="center">
+  <img src="screenshots/main.png" width="45%">
+</p>
 ```text
 screenshots/main-menu.png
 ```
