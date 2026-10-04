@@ -46,9 +46,9 @@ screenshots/player-message.png
 
 Show the screen where the current player's role is displayed.
 
-```text
-screenshots/role-screen.png
-```
+<p align="center">
+  <img src="screenShots/role.png" width="45%">
+</p>
 
 ### Information
 
